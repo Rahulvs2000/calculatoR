@@ -1,5 +1,5 @@
 body{
-  background-image: url("matrix-binary-numbers-binary-computer-code-flow-blue-random-digital-numbers-futuristic-sci-fi-backdrop-numbers-falling-dark-background-vector-illustration_257312-1777.avif");
+  background-image: url("img.avif");
 }
 table{
   width: 320px;
@@ -21,9 +21,9 @@ input{
 }
 
 h1{
-  color: white;
+  color: #FFDCA9;
   font-family:cursive;
 }
  #ra{
-   color: white;
+   color: #F99417;
  }
