@@ -1,0 +1,29 @@
+body{
+  background-image: url("matrix-binary-numbers-binary-computer-code-flow-blue-random-digital-numbers-futuristic-sci-fi-backdrop-numbers-falling-dark-background-vector-illustration_257312-1777.avif");
+}
+table{
+  width: 320px;
+  height: 300px;
+  font-size: 20px;
+  border: solid green 5px;
+  border-radius: 10px;
+}
+#result{
+  width:auto;
+  height: 25px;
+}
+input{
+  width: 80px;
+  height: 60px;
+  color: red;
+  border: dotted  grey 2px;
+  border-radius: 50px;
+}
+
+h1{
+  color: white;
+  font-family:cursive;
+}
+ #ra{
+   color: white;
+ }
